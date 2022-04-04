@@ -1,6 +1,9 @@
-### Olá, sou Pedro Neves 👋
+### Hello, I'm Pedro Neves 👋
 
  Sou formado em Engenharia Civil pela Universidade Católica de Pernambuco (UNICAP) e especializado na área de avaliações de bens. Há um ano e meio atrás, quando estudava para concursos me deparei com uma matéria que me apaixonei logo de cara, lógica de programação. A partir daí, me vi cada vez mais inserido nesse mundo.
+ 
+ --
+ I have a degree in Civil Engineering from the Catholic University of Pernambuco (UNICAP) and I specialize in the area of asset valuation. A year and a half ago, when I was studying for competitive examinations I came across a subject that I fell in love with right away, programming logic. From then on, I saw myself more and more inserted in this world.
  
  
  <div> 
