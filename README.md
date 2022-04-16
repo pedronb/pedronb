@@ -20,8 +20,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronb&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
+ ### 🖥️ Linguagens e Ferramentas
    <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="pedro-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="pedro-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+ </div>
+ 
+ 
+ #### 📚 Estou aprendendo
+   <div style="display: inline_block"><br>
+  <img align="center" alt="pedro-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
-
-  ##
+ 
+ ##
+ 
