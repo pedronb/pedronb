@@ -40,6 +40,7 @@
   <img align="center" alt="pedro-postsql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="pedro-pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="pedro-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="pedro-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   </div>
  
  ##
