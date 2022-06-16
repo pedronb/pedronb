@@ -5,7 +5,7 @@
  Atualmente, cursando Análise de Desenvolvimento de Sistemas, participando do Programa Next, realizado pela Cesar School, que tem como escopo uma imersão de Python e Java para desenvolvedores em transição de carreira para a área tecnológica.
  
  --
- I have a degree in Civil Engineering from the Catholic University of Pernambuco (UNICAP) and I specialize in the area of asset valuation. A year and a half ago, when I was studying for competitive examinations I came across a subject that I fell in love with right away, programming logic. From then on, I saw myself more and more inserted in this world.
+ I have a degree in Civil Engineering from the Catholic University of Pernambuco (UNICAP) and I specialize in the area of asset valuation. A year and a half ago, when I was studying for civil examinations, I came across a subject that I fell in love with right away, programming logic. From then on, I saw myself more and more inserted in this world.
  
  Currently, studying Systems Development Analysis, participating in the Next Program, held by Cesar School, which has the scope of a Python and Java immersion for developers in career transition to the technology area.
  
