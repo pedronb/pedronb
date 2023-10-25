@@ -1,14 +1,4 @@
 ### Hello, I'm Pedro Neves 👋
-
- Sou formado em Engenharia Civil pela Universidade Católica de Pernambuco (UNICAP) e especializado na área de avaliações de bens por inferência estatística. Há um ano e meio atrás, quando estudava para concursos me deparei com uma matéria que me apaixonei logo de cara, lógica de programação. A partir daí, me vi cada vez mais inserido nesse mundo.
- 
- Atualmente, cursando Análise de Desenvolvimento de Sistemas, participando do Programa Next, realizado pela Cesar School, que tem como escopo uma imersão de Python e Java para desenvolvedores em transição de carreira para a área tecnológica.
- 
- --
- I have a degree in Civil Engineering from the Catholic University of Pernambuco (UNICAP) and I specialize in the area of asset valuation. A year and a half ago, when I was studying for civil examinations, I came across a subject that I fell in love with right away, programming logic. From then on, I saw myself more and more inserted in this world.
- 
- Currently, studying Systems Development Analysis, participating in the Next Program, held by Cesar School, which has the scope of a Python and Java immersion for developers in career transition to the technology area.
- 
  
  <div> 
   <a href = "mailto:pedronevesbezerra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
